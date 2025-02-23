@@ -1,0 +1,8 @@
+streamlit
+pydicom
+wfdb
+numpy
+Pillow
+matplotlib
+scipy
+google-generativeai
